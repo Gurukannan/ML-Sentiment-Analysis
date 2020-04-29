@@ -1,5 +1,5 @@
-# iris-eda-app
-Simple Iris EDA app with streamlit
+# Sentiment Analysis App
+Simple app with streamlit
 
 # Required Files
 1 setup.sh
